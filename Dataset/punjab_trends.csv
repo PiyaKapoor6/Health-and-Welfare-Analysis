@@ -1,0 +1,141 @@
+year,disease,region,value
+2015,Diabetes,Rural,9.59
+2015,Diabetes,Urban,13.25
+2016,Diabetes,Rural,9.45
+2016,Diabetes,Urban,12.88
+2017,Diabetes,Rural,10.64
+2017,Diabetes,Urban,13.44
+2018,Diabetes,Rural,9.98
+2018,Diabetes,Urban,14.08
+2019,Diabetes,Rural,11.09
+2019,Diabetes,Urban,13.59
+2020,Diabetes,Rural,11.34
+2020,Diabetes,Urban,14.79
+2021,Diabetes,Rural,11.75
+2021,Diabetes,Urban,15.05
+2022,Diabetes,Rural,11.39
+2022,Diabetes,Urban,15.23
+2023,Diabetes,Rural,12.18
+2023,Diabetes,Urban,15.21
+2024,Diabetes,Rural,13.0
+2024,Diabetes,Urban,16.29
+2015,Hypertension,Rural,19.72
+2015,Hypertension,Urban,23.03
+2016,Hypertension,Rural,19.26
+2016,Hypertension,Urban,22.84
+2017,Hypertension,Rural,19.91
+2017,Hypertension,Urban,22.95
+2018,Hypertension,Rural,19.95
+2018,Hypertension,Urban,23.43
+2019,Hypertension,Rural,20.18
+2019,Hypertension,Urban,23.01
+2020,Hypertension,Rural,20.33
+2020,Hypertension,Urban,23.75
+2021,Hypertension,Rural,20.8
+2021,Hypertension,Urban,23.84
+2022,Hypertension,Rural,21.37
+2022,Hypertension,Urban,23.75
+2023,Hypertension,Rural,21.7
+2023,Hypertension,Urban,24.25
+2024,Hypertension,Rural,21.21
+2024,Hypertension,Urban,24.88
+2015,Cancer (per lakh),Rural,54.6
+2015,Cancer (per lakh),Urban,47.09
+2016,Cancer (per lakh),Rural,55.76
+2016,Cancer (per lakh),Urban,48.54
+2017,Cancer (per lakh),Rural,58.24
+2017,Cancer (per lakh),Urban,50.05
+2018,Cancer (per lakh),Rural,59.53
+2018,Cancer (per lakh),Urban,51.64
+2019,Cancer (per lakh),Rural,61.67
+2019,Cancer (per lakh),Urban,52.57
+2020,Cancer (per lakh),Rural,63.33
+2020,Cancer (per lakh),Urban,53.84
+2021,Cancer (per lakh),Rural,62.91
+2021,Cancer (per lakh),Urban,54.4
+2022,Cancer (per lakh),Rural,64.46
+2022,Cancer (per lakh),Urban,55.72
+2023,Cancer (per lakh),Rural,67.8
+2023,Cancer (per lakh),Urban,57.38
+2024,Cancer (per lakh),Rural,70.35
+2024,Cancer (per lakh),Urban,58.01
+2015,Tuberculosis (per lakh),Rural,178.5
+2015,Tuberculosis (per lakh),Urban,130.97
+2016,Tuberculosis (per lakh),Rural,172.42
+2016,Tuberculosis (per lakh),Urban,126.0
+2017,Tuberculosis (per lakh),Rural,170.96
+2017,Tuberculosis (per lakh),Urban,120.88
+2018,Tuberculosis (per lakh),Rural,164.42
+2018,Tuberculosis (per lakh),Urban,119.35
+2019,Tuberculosis (per lakh),Rural,153.14
+2019,Tuberculosis (per lakh),Urban,115.95
+2020,Tuberculosis (per lakh),Rural,152.1
+2020,Tuberculosis (per lakh),Urban,110.2
+2021,Tuberculosis (per lakh),Rural,141.71
+2021,Tuberculosis (per lakh),Urban,104.28
+2022,Tuberculosis (per lakh),Rural,136.39
+2022,Tuberculosis (per lakh),Urban,103.09
+2023,Tuberculosis (per lakh),Rural,129.13
+2023,Tuberculosis (per lakh),Urban,98.88
+2024,Tuberculosis (per lakh),Rural,122.27
+2024,Tuberculosis (per lakh),Urban,93.59
+2015,Anemia (Women),Rural,55.04
+2015,Anemia (Women),Urban,46.98
+2016,Anemia (Women),Rural,53.85
+2016,Anemia (Women),Urban,46.09
+2017,Anemia (Women),Rural,53.86
+2017,Anemia (Women),Urban,45.16
+2018,Anemia (Women),Rural,53.25
+2018,Anemia (Women),Urban,44.68
+2019,Anemia (Women),Rural,52.54
+2019,Anemia (Women),Urban,44.58
+2020,Anemia (Women),Rural,51.82
+2020,Anemia (Women),Urban,43.95
+2021,Anemia (Women),Rural,51.14
+2021,Anemia (Women),Urban,42.98
+2022,Anemia (Women),Rural,50.37
+2022,Anemia (Women),Urban,42.68
+2023,Anemia (Women),Rural,50.78
+2023,Anemia (Women),Urban,41.97
+2024,Anemia (Women),Rural,49.52
+2024,Anemia (Women),Urban,41.05
+2015,Diarrhea (Under-5),Rural,11.41
+2015,Diarrhea (Under-5),Urban,7.36
+2016,Diarrhea (Under-5),Rural,10.78
+2016,Diarrhea (Under-5),Urban,7.84
+2017,Diarrhea (Under-5),Rural,11.33
+2017,Diarrhea (Under-5),Urban,8.62
+2018,Diarrhea (Under-5),Rural,10.22
+2018,Diarrhea (Under-5),Urban,7.82
+2019,Diarrhea (Under-5),Rural,10.2
+2019,Diarrhea (Under-5),Urban,6.94
+2020,Diarrhea (Under-5),Rural,9.92
+2020,Diarrhea (Under-5),Urban,6.77
+2021,Diarrhea (Under-5),Rural,9.44
+2021,Diarrhea (Under-5),Urban,6.34
+2022,Diarrhea (Under-5),Rural,8.49
+2022,Diarrhea (Under-5),Urban,5.63
+2023,Diarrhea (Under-5),Rural,8.96
+2023,Diarrhea (Under-5),Urban,5.89
+2024,Diarrhea (Under-5),Rural,8.11
+2024,Diarrhea (Under-5),Urban,5.75
+2015,Infant Mortality Rate,Rural,34.32
+2015,Infant Mortality Rate,Urban,23.07
+2016,Infant Mortality Rate,Rural,32.99
+2016,Infant Mortality Rate,Urban,23.04
+2017,Infant Mortality Rate,Rural,33.13
+2017,Infant Mortality Rate,Urban,22.3
+2018,Infant Mortality Rate,Rural,32.14
+2018,Infant Mortality Rate,Urban,22.15
+2019,Infant Mortality Rate,Rural,31.45
+2019,Infant Mortality Rate,Urban,21.45
+2020,Infant Mortality Rate,Rural,30.49
+2020,Infant Mortality Rate,Urban,20.96
+2021,Infant Mortality Rate,Rural,29.06
+2021,Infant Mortality Rate,Urban,20.58
+2022,Infant Mortality Rate,Rural,28.21
+2022,Infant Mortality Rate,Urban,19.53
+2023,Infant Mortality Rate,Rural,28.52
+2023,Infant Mortality Rate,Urban,19.74
+2024,Infant Mortality Rate,Rural,27.84
+2024,Infant Mortality Rate,Urban,18.84
